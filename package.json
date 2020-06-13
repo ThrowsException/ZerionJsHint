@@ -9,6 +9,9 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "mongodb": "~1.4.7"
+    "mongodb": "^3.5.9"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }
